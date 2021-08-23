@@ -3,7 +3,7 @@
 [![Latest Version](https://img.shields.io/github/release/nelmio/NelmioSolariumBundle.svg?style=flat-square)](https://github.com/nelmio/NelmioSolariumBundle/releases)
 [![Total Downloads](https://img.shields.io/packagist/dt/nelmio/solarium-bundle.svg?style=flat-square)](https://packagist.org/packages/nelmio/solarium-bundle)
 
-## About
+## About : Upgraded for PHP-8 and Symfony 5.3
 
 The NelmioSolariumBundle provides integration with the [solarium](http://www.solarium-project.org)
 solr client.
