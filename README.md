@@ -10,10 +10,10 @@ solr client.
 
 ## Installation
 
-Require the `msdev/solarium-bundle` package in your composer.json and update your dependencies.
+Require the `msdev/solarium-bundle:dev-master` package in your composer.json and update your dependencies.
 
 ```sh
-$ composer require msdev/solarium-bundle
+$ composer require msdev/solarium-bundle:dev-master
 ```
 
 Add the NelmioSolariumBundle to your AppKernel.php
